@@ -1,0 +1,1 @@
+msgbox("Autorami s¹:" & vbCrLf & vbCrLf & "    hXR16F - Program" & vbCrLf & "    Nimplex - Strona WWW")
